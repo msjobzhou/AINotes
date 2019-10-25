@@ -71,3 +71,5 @@ https://www.zhihu.com/question/25627482/answer/313088784?utm_medium=social&utm_s
 3）完全重写复现书中代码的例子，实现所有源代码自己编写
 
 4）利用神经网络完成俄罗斯方块等AI程序设计
+
+![1572018133775](pic/1572018133775.png)
