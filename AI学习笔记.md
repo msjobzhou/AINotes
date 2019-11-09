@@ -73,3 +73,8 @@ https://www.zhihu.com/question/25627482/answer/313088784?utm_medium=social&utm_s
 4）利用神经网络完成俄罗斯方块等AI程序设计
 
 ![1572018133775](pic/1572018133775.png)
+神经网络与深度学习中文版.pdf
+
+如何选择神经网络的超参数
+
+https://blog.csdn.net/kingzone_2008/article/details/81292791
